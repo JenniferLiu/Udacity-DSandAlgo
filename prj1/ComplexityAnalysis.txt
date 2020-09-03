@@ -1,0 +1,12 @@
+Worst-case big-O:
+T is the length of texts, and C is the length of calls
+
+Task0: o(1)
+
+Task1: o(T**2+C**2)
+  
+Task2: o(C**2)
+
+Task3: o(C**2)
+  
+Task4: o(T**2+C**2)
